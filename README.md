@@ -13,3 +13,7 @@ Analysis
 Sales trends
 Product performance
 Customer insights
+
+## Project Output
+
+![Output](output.png)
