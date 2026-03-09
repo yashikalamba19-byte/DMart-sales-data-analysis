@@ -1,2 +1,15 @@
-# DMart-sales-data-analysis
-Data analysis project using Python, Pandas and Data Visualization
+# DMart Sales Data Analysis
+
+This project analyzes DMart sales data to find business insights.
+
+Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+Analysis
+Sales trends
+Product performance
+Customer insights
